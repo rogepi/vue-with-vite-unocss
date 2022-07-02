@@ -1,7 +1,8 @@
 {
-  "name": "newbee-mall-mobile",
-  "private": true,
-  "version": "0.0.0",
+  "name": "vue-with-vite-unocss",
+  "private": false,
+  "author": "rogepi",
+  "version": "0.0.1",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",

@@ -9,6 +9,14 @@ This template should help get you started developing with Vue 3 and TypeScript i
 - unocss
 - auto-imports, components
 
+## Use
+
+```bash
+npx degit https://github.com/rogepi/vue-with-vite-unocss [your dir]
+```
+
+edit the **package.json**
+
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
